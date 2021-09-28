@@ -1,5 +1,3 @@
-package com.banking;
-
 import pkg1.Interface;
 
 
