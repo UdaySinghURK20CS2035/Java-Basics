@@ -1,5 +1,9 @@
-package com.banking;
-
+/* AIM:
+Create a java application that uses multi-threading concept to perform the following.
+1. Getting inputs from user by using the thread name called“t1”.
+2. Perform addition operation using the thread name called “t2”
+3. Perform division operation using the thread name called “t3”
+*/
 import java.util.Scanner;
 
 class user_input extends Thread{
